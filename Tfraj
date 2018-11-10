@@ -1,0 +1,412 @@
+#EXTINF:-1, Aloula
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
+
+#EXTINF:-1, Almaghribia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
+
+#EXTINF:-1, Arriyadia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
+
+#EXTINF:-1, 2M
+http://streaming.i-sat.tv:8081/live/2m/chunks.m3u8
+
+#EXTINF:-1, Medi1
+http://178.162.211.14/live/Medi1tvmaghreb.sdp/chunklist_w1439403718.m3u8
+
+#EXTINF:-1, Fox Movies
+http://streaming.i-sat.tv:8081/live/fox1/chunks.m3u8
+
+#EXTINF:-1, Fox Movies Osn
+http://streaming.i-sat.tv:8081/live/osm/chunks.m3u8
+
+#EXTINF:-1, MBC -1
+http://selevision9895-i.akamaihd.net/hls/live/219367/98950/1.m3u8
+
+#EXTINF:-1, MBC -2
+http://selevision9880-i.akamaihd.net/hls/live/219174/98801/1.m3u8
+
+#EXTINF:-1, MBC -3
+http://selevision9880-i.akamaihd.net/hls/live/219175/98802/1.m3u8
+#EXTINF:-1,mbc3
+http://selevision9880-i.akamaihd.net/hls/live/219175/98802/2.m3u8
+
+#EXTINF:-1, MBC -4
+http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8
+
+#EXTINF:-1, MBC Action
+http://selevision9880-i.akamaihd.net/hls/live/219177/98804/1.m3u8
+
+#EXTINF:-1, MBC Bollywood
+http://selevision9894-i.akamaihd.net/hls/live/219366/98949/1.m3u8
+
+#EXTINF:-1, MBC Max
+http://selevision9880-i.akamaihd.net/hls/live/219179/98806/1.m3u8
+
+#EXTINF:-1, MBC Drama
+http://selevision9877-i.akamaihd.net/hls/live/219123/98775/1.m3u8
+
+
+#EXTINF:-1, MBC Masr 1
+http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
+
+#EXTINF:-1, MBC Masr 2
+http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
+
+#EXTINF:-1, Dubai One*
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1, Dubai One**
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+
+#EXTINF:-1, DUBAI ONE sd
+http://selevision9878-i.akamaihd.net/hls/live/219131/98783/1.m3u8
+
+#EXTINF:-1, Beitlehm tv
+http://htv.mada.ps:8888/bethlehemtv/btv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, Pnn tv
+http://htv.mada.ps:8888/pnn/pnn/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, Ajyal
+http://w2.mada.ps:1935/ajyal/livestreamm/chunklist_w934295596.m3u8
+
+#EXTINF:-1, Raya
+http://htv.mada.ps:8888/raya/tv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, Ftv tv
+http://htv.mada.ps:8888/ftv/ftv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, Spacetoon
+http://selevision9884-i.akamaihd.net/hls/live/219261/98845/1.m3u8
+
+#EXTINF:-1, Zee Aflam
+http://streaming.i-sat.tv:8081/live/zeeaflam/chunks.m3u8
+
+#EXTINF:-1, Zee Alwan
+http://streaming.i-sat.tv:8081/live/zeealwan/chunks.m3u8
+
+#EXTINF:-1, Rotana Khalijiah
+http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
+
+#EXTINF:-1, Rotana Cinema
+http://selevision9896-i.akamaihd.net/hls/live/219378/98961/2.m3u8
+
+#EXTINF:-1, Rotana Film
+http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
+
+#EXTINF:-1, Rotana Masrya
+http://selevision9893-i.akamaihd.net/hls/live/219353/98936/1.m3u8
+
+#EXTINF:-1, Rotana Classic
+http://selevision9879-i.akamaihd.net/hls/live/219144/98796/1.m3u8
+
+#EXTINF:-1, B4u Aflam+
+http://selevision9882-i.akamaihd.net/hls/live/219196/98823/2.m3u8
+
+#EXTINF:-1, B4u Aflam
+http://selevision9882-i.akamaihd.net/hls/live/219195/98822/1.m3u8
+
+#EXTINF:-1, Almasrya
+http://selevision9877-i.akamaihd.net/hls/live/219126/98778/1.m3u8
+
+#EXTINF:-1, Almasrya1
+http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
+
+#EXTINF:-1, On Sport
+http://streaming.i-sat.tv:1935/live/sno/chunklist_w426849262.m3u8
+
+#EXTINF:-1, Dmc Drama
+http://streaming.i-sat.tv:8081/live/dmcdrama/chunks.m3u8
+
+#EXTINF:-1, Melody Aflam
+http://38.96.148.163/MelodyAflam/smil:aflam.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1, Melody Drama
+http://38.96.148.163/MelodyDrama/smil:drama.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1, Melody Classic
+http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1, Cbc
+http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
+
+#EXTINF:-1, Cbc Sofra
+http://selevision9895-i.akamaihd.net/hls/live/219368/98951/1.m3u8
+
+#EXTINF:-1, Cbc Drama
+http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
+
+#EXTINF:-1, Cbc News
+http://selevision9891-i.akamaihd.net/hls/live/219328/98911/2.m3u8
+
+#EXTINF:-1, Alnahar
+http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
+
+#EXTINF:-1, Alnahar drama
+http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
+
+#EXTINF:-1, Alkahera walnas
+http://selevision9877-i.akamaihd.net/hls/live/219125/98777/2.m3u8
+
+#EXTINF:-1, Alhayat2
+http://selevision9884-i.akamaihd.net/hls/live/219262/98846/1.m3u8
+
+#EXTINF:-1, Sada albalad
+http://selevision9883-i.akamaihd.net/hls/live/219255/98839/2.m3u8
+
+#EXTINF:-1, Nile Family
+http://selevision9883-i.akamaihd.net/hls/live/219249/98833/1.m3u8
+
+#EXTINF:-1, Nile Drama
+http://selevision9882-i.akamaihd.net/hls/live/219203/98829/1.m3u8
+
+#EXTINF:-1, Nile Cinema
+http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
+
+#EXTINF:-1, Panorama Food
+http://selevision9881-i.akamaihd.net/hls/live/219187/98814/1.m3u8
+
+#EXTINF:-1, Panorama Drama
+http://selevision9886-i.akamaihd.net/hls/live/219280/98864/1.m3u8
+
+#EXTINF:-1, Panorama Drama 2
+http://selevision9881-i.akamaihd.net/hls/live/219185/98812/1.m3u8
+
+#EXTINF:-1, Dream tv
+http://selevision9883-i.akamaihd.net/hls/live/219253/98837/1.m3u8
+
+
+#EXTINF:-1,saudi quran
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
+
+#EXTINF:-1,Al Ekhbaria
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel3/Index1400.m3u8?v=2177902718
+
+#EXTINF:-1,AL HADATH sd
+http://selevision9881-i.akamaihd.net/hls/live/219184/98811/1.m3u8
+
+#EXTINF:-1,AL ARABIYA sd
+http://selevision9888-i.akamaihd.net/hls/live/219306/98889/1.m3u8
+
+#EXTINF:-1,aljazeera hd
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+
+#EXTINF:-1,aljazeera
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index1296.m3u8
+
+#EXTINF:-1,bbc arabic
+http://selevision9889-i.akamaihd.net/hls/live/219315/98898/1.m3u8
+
+#EXTINF:-1,sky news arabic
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+#EXTINF:-1,sky news arabic
+https://stream.skynewsarabia.com/hls/sna_480.m3u8
+
+#EXTINF:-1,france 24
+http://selevision9877-i.akamaihd.net/hls/live/219124/98776/1.m3u8
+
+#EXTINF:-1,rt arabic
+https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
+
+#EXTINF:-1,rt arabic sd
+https://secure-streams.akamaized.net/rt-arab/index1600.m3u8
+
+#EXTINF:-1,funoontv
+http://selevision9883-i.akamaihd.net/hls/live/219206/98832/1.m3u8
+
+#EXTINF:-1,Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
+
+#EXTINF:-1,Dubai Zaman
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1,Dubai Zaman*
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+
+#EXTINF:-1,Dubai Sports*
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1,DUBAI AL OULA sd
+http://selevision9891-i.akamaihd.net/hls/live/219333/98916/1.m3u8
+
+#EXTINF:-1,SAMA DUBAI sd
+http://selevision9878-i.akamaihd.net/hls/live/219135/98787/1.m3u8
+
+#EXTINF:-1,DUBAI ZAMAN
+http://selevision9886-i.akamaihd.net/hls/live/219281/98865/1.m3u8
+
+#EXTINF:-1,Abu Dhabi TV
+https://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
+#EXTINF:-1,Abu Dhabi drama
+https://adtv.ercdn.net/addrama/addrama_720p.m3u8
+
+#EXTINF:-1,ABU DHABI DRAMA sd
+http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
+
+#EXTINF:-1,Emarat
+https://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
+
+#EXTINF:-1,AD EMARAT sd
+http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
+
+#EXTINF:-1,LBC
+http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
+
+#EXTINF:-1,MTV Lebanon
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b625000.m3u8
+
+#EXTINF:-1,Al Jadeed
+http://selevision9886-i.akamaihd.net/hls/live/219282/98866/1.m3u8
+
+#EXTINF:-1,LDC
+http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
+
+#EXTINF:-1,future
+http://selevision9889-i.akamaihd.net/hls/live/219311/98894/1.m3u8
+
+#EXTINF:-1,Syria Drama HD
+http://selevision9876-i.akamaihd.net/hls/live/219116/98768/2.m3u8
+
+#EXTINF:-1,Alaan tv
+http://selevision9884-i.akamaihd.net/hls/live/219265/98849/1.m3u8
+
+#EXTINF:-1,CBC
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
+
+#EXTINF:-1,Mekameleen
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
+
+#EXTINF:-1,Nessma*
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+
+#EXTINF:-1,Al Nabaa
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
+
+#EXTINF:-1,Hawas
+http://selevision9894-i.akamaihd.net/hls/live/219358/98941/2.m3u8
+
+#EXTINF:-1,jordon
+http://selevision9884-i.akamaihd.net/hls/live/219256/98840/1.m3u8
+
+#EXTINF:-1,kuwait 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1,kuwait 2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1,kuwait qurain
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1,almajlis
+https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1,bahrin
+http://selevision9888-i.akamaihd.net/hls/live/219299/98883/1.m3u8
+
+#EXTINF:-1,al dhafra
+http://selevision9882-i.akamaihd.net/hls/live/219194/98821/2.m3u8
+
+#EXTINF:-1, Ajyial Kids
+http://selevision9881-i.akamaihd.net/hls/live/219191/98818/1.m3u8
+
+#EXTINF:-1,national geographic
+http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
+
+#EXTINF:-1,national geographic
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8?v=2986937462
+
+#EXTINF:-1,quest
+http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
+
+#EXTINF:-1,Al Sharjah tv
+https://svs.itworkscdn.net/smc1live/smc1.smil/chunklist_b625000.m3u8
+
+#EXTINF:-1,Al Sharqyia
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/chunklist_b625000.m3u8
+
+
+#EXTINF:-1,RO�YA
+http://selevision9876-i.akamaihd.net/hls/live/219117/98769/1.m3u8
+
+#EXTINF:-1,kolalnas
+http://htv.mada.ps:8888/kolalnas/c1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,salam tv
+http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,saudi 1
+http://selevision9881-i.akamaihd.net/hls/live/219192/98819/1.m3u8
+
+#EXTINF:-1,Al Ekhbaria
+http://selevision9888-i.akamaihd.net/hls/live/219298/98882/1.m3u8
+
+#EXTINF:-1,saudi sunnah
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
+
+#EXTINF:-1,saudi thaqafia
+http://selevision9885-i.akamaihd.net/hls/live/219271/98855/1.m3u8
+
+#EXTINF:-1,iqraa
+http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t64NTc2cA==.m3u8
+
+#EXTINF:-1,Wesal
+http://wesal.noorlive.com/wesal/wesal1/chunklist_w1700957645.m3u8
+
+#EXTINF:-1,AL RESALAH
+http://selevision9891-i.akamaihd.net/hls/live/219329/98912/1.m3u8
+
+#EXTINF:-1,SAUDI QURAN
+http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
+
+#EXTINF:-1,bbc world news
+http://selevision9885-i.akamaihd.net/hls/live/219266/98850/1.m3u8
+
+#EXTINF:-1,france 24 english
+http://selevision9890-i.akamaihd.net/hls/live/219320/98903/2.m3u8
+
+#EXTINF:-1,cnbc
+http://selevision9889-i.akamaihd.net/hls/live/219316/98899/1.m3u8
+
+#EXTINF:-1,dw
+http://selevision9890-i.akamaihd.net/hls/live/219317/98900/2.m3u8
+
+#EXTINF:-1,dw
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&play-only=primary&rebase=on
+
+#EXTINF:-1,cnn
+http://selevision9883-i.akamaihd.net/hls/live/219254/98838/1.m3u8
+
+#EXTINF:-1,rt doc
+https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
+
+#EXTINF:-1,aljazeera english fhd
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
+
+#EXTINF:-1,aljazeera english hd
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index2073.m3u8
+
+#EXTINF:-1,aljazeera doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/800.m3u8
+
+#EXTINF:-1,aljazeera mubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
+
+#EXTINF:-1,Al Hiwar
+http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_w1917778377_b1264000.m3u8
+
+#EXTINF:-1,Almayadeen
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8
+
+#EXTINF:-1,aljazeera 360
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index576.m3u8
+
+#EXTINF:-1,alaraby tv
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+
+
+
+
+
+
+
